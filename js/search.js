@@ -5,7 +5,7 @@ const searchapi = "/search/";
 
 // Api Server Manager
 
-const AvailableServers = ["anixer-api.anixer42.workers.dev"];
+const AvailableServers = ["https://anixer-api.anixer42.workers.dev"];
 
 function getApiServer() {
     return AvailableServers[Math.floor(Math.random() * AvailableServers.length)];
