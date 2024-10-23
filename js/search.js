@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://animanga-proxy.druvx13.workers.dev/?u=";
+const ProxyApi = "https://proxy.anixer42.workers.dev/?u=";
 const searchapi = "/search/";
 
 // Api Server Manager
